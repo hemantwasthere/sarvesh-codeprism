@@ -3,7 +3,7 @@
 - <img src="https://img.pngio.com/algorithm-icon-png-1-png-image-algorithms-png-200_200.png" width="20" height="20"> I’m currently practicing data structures and algorithms
 - <img src="https://image.flaticon.com/icons/png/128/996/996484.png" width="15" height="15"> Reach me at 
   - [Linkedin](https://www.linkedin.com/in/sarveshspatil/) 
-  - [Gmail](sarveshspatil111@gmail.com)
+  - Gmail : sarveshspatil111@gmail.com
   - [YouTube](https://www.youtube.com/channel/UCMQBfRsIP5RPRcD_j9hHmYw)
   
 <img src="https://github-readme-stats.vercel.app/api?username=sarveshspatil111&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
