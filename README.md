@@ -5,7 +5,12 @@
   - [Linkedin](https://www.linkedin.com/in/sarveshspatil/) 
   - [YouTube](https://www.youtube.com/channel/UCMQBfRsIP5RPRcD_j9hHmYw)
   
-<img src="https://github-readme-stats.vercel.app/api?username=sarveshspatil111&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
+
+[![GitHub](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=nord&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarveshspatil111&&show_icons=true&title_color=81a1c1&icon_color=a3be8c&text_color=81a1c1&bg_color=2e3440">
+
+
 
 <!---
 sarveshspatil111/sarveshspatil111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
