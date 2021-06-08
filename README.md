@@ -8,9 +8,9 @@
 <a href='https://www.linkedin.com/in/sarveshspatil/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=sarveshspatil&color=blue&style=flat-square&logo=linkedin' />
   </a>
-<a href="https://www.youtube.com/channel/UCMQBfRsIP5RPRcD_j9hHmYw">
+<!-- <a href="https://www.youtube.com/channel/UCMQBfRsIP5RPRcD_j9hHmYw">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg"> -->
   
 
 [![GitHub](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=nord&hide_border=true)](https://git.io/streak-stats)
