@@ -15,6 +15,12 @@
 <a href='https://twitter.com/sarveshspatil' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil&color=gray&style=plastic-square&logo=twitter' />
   </a>
+<a href='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' />
+  </a>
+<a href='https://img.shields.io/static/v1?label=&message=sarveshspatil@hotmail.com&color=gray&style=plastic-square&logo=microsoftoutlook' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil@hotmail.com&color=gray&style=plastic-square&logo=microsoftoutlook' />
+  </a>
 
 Github Stats             |  -
 :-------------------------:|:-------------------------:
@@ -49,8 +55,3 @@ Github Stats             |  -
 ![](https://img.shields.io/badge/PopOS-informational?style=plastic&logo=popos&logoColor=white&color=48B9C7)
 ![](https://img.shields.io/badge/Fedora-informational?style=plastic&logo=fedora&logoColor=white&color=294172)
 ![](https://img.shields.io/badge/Windows-informational?style=plastic&logo=windows&logoColor=white&color=0078D6)
-
-#### Desktop Environments :
-![](https://img.shields.io/badge/Gnome-informational?style=plastic&logo=gnome&logoColor=white&color=4A86CF)
-![](https://img.shields.io/badge/XFCE-informational?style=plastic&logo=xfce&logoColor=white&color=2284F2)
-![](https://img.shields.io/badge/KDE-informational?style=plastic&logo=kde&logoColor=white&color=1D99F3)
