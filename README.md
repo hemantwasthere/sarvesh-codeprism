@@ -18,9 +18,9 @@
 <a href='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' />
   </a>
-<a href='https://img.shields.io/static/v1?label=&message=sarveshspatil@hotmail.com&color=gray&style=plastic-square&logo=microsoftoutlook' target='_blank' rel='noopener' rel='noreferrer'>
+<!-- <a href='https://img.shields.io/static/v1?label=&message=sarveshspatil@hotmail.com&color=gray&style=plastic-square&logo=microsoftoutlook' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil@hotmail.com&color=gray&style=plastic-square&logo=microsoftoutlook' />
-  </a>
+  </a> -->
 
 Github Stats             |  -
 :-------------------------:|:-------------------------:
