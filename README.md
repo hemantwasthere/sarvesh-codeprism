@@ -53,5 +53,7 @@ Github Stats             |  -
 #### Operating Systems :
 ![](https://img.shields.io/badge/ArchLinux-informational?style=plastic&logo=archlinux&logoColor=white&color=1793D1)
 ![](https://img.shields.io/badge/PopOS-informational?style=plastic&logo=popos&logoColor=white&color=48B9C7)
-![](https://img.shields.io/badge/Fedora-informational?style=plastic&logo=fedora&logoColor=white&color=294172)
-![](https://img.shields.io/badge/Windows-informational?style=plastic&logo=windows&logoColor=white&color=0078D6)
+
+#### Window Managers :
+![](https://img.shields.io/badge/AwesomeWM-informational?style=plastic&logo=awesomewm&logoColor=white&color=000000)
+
