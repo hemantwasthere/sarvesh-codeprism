@@ -24,16 +24,18 @@
 ```fish
 ><> fetchinfo
 ```
-<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="150" />
+<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="179" />
 
 ```csharp
 sarveshspatil111@github
 -------------------------
-Shell: fish 5.8
-Pronouns: He/Him
-Frameworks: React
-Languages: Python, JavaScript
+OS: Arch Linux x86_64
+Shell: fish 3.3.1
+WM: sway
+Languages: Python, JavaScript, HTML5, CSS3, SQL, C
+Frameworks: Django, React
 Learning: Node.js, Express, Frappe
+Tools: Git, Docker, Postman
 ```
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=tokyonight&hide_border=true) -->
