@@ -24,11 +24,11 @@
 ```fish
 ><> fetchinfo
 ```
+<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="150" />
 
 ```csharp
 sarveshspatil111@github
 -------------------------
-OS: Arch Linux x86_64
 Shell: fish 5.8
 Pronouns: He/Him
 Frameworks: React
