@@ -27,14 +27,15 @@
 ```fish
 ><> fetchinfo
 ```
-<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="179" />
+<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/endeavouros.png" width="265" />
 
 ```csharp
 sarveshspatil111@github
 -------------------------
-OS: Arch Linux x86_64
+OS: EndeavourOS Linux x86_64
 Shell: fish 3.3.1
 WM: sway
+Terminal: alacritty
 Languages: Python, JavaScript, HTML5, CSS3, SQL, C
 Frameworks: Django, React
 Learning: Node.js, Express, Frappe
