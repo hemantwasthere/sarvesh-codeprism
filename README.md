@@ -34,7 +34,7 @@ sarveshspatil111@github
 -------------------------
 OS: EndeavourOS Linux x86_64
 Shell: fish 3.3.1
-WM: sway
+WM: dwm
 Terminal: alacritty
 Languages: Python, JavaScript, HTML5, CSS3, SQL, C
 Frameworks: Django, React
