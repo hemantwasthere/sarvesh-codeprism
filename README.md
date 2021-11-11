@@ -23,7 +23,7 @@
 <a href='https://drive.google.com/file/d/1bFHBe8Huapz-uzVnd3SVGqOvrWre8Tsn/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
   </a>
-
+<!-- 
 ```fish
 ><> fetchinfo
 ```
@@ -40,6 +40,6 @@ Languages: Python, JavaScript, HTML5, CSS3, SQL, C
 Frameworks: Django, React
 Learning: Node.js, Express, Frappe
 Tools: Git, Docker, Postman
-```
+``` -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=tokyonight&hide_border=true) -->
