@@ -23,23 +23,23 @@
 <a href='https://drive.google.com/file/d/1bFHBe8Huapz-uzVnd3SVGqOvrWre8Tsn/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
   </a>
-<!-- 
+
 ```fish
 ><> fetchinfo
 ```
-<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/endeavouros.png" width="265" />
+<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
 
 ```csharp
 sarveshspatil111@github
 -------------------------
-OS: EndeavourOS Linux x86_64
+OS: Gentoo/Linux x86_64 x86_64
 Shell: fish 3.3.1
 WM: dwm
-Terminal: alacritty
-Languages: Python, JavaScript, HTML5, CSS3, SQL, C
+Terminal: st
+Languages: Bash, Python, JavaScript
 Frameworks: Django, React
 Learning: Node.js, Express, Frappe
-Tools: Git, Docker, Postman
-``` -->
+Tools: Git, Tmux, Docker
+```
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=tokyonight&hide_border=true) -->
