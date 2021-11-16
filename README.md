@@ -27,8 +27,18 @@
 ```fish
 ><> fetchinfo
 ```
-<img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
 
+```csharp
+      /\         sarveshspatil111@github
+     /  \        -------------------------
+    /\   \       OS: Arch Linux x86_64
+   /      \      Shell: zsh 5.8
+  /   ,,   \     WM: dwm
+ /   |  |  -\    Terminal: st
+/_-''    ''-_\   Learning: React, TypeScript
+```
+
+<!-- <img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
 ```csharp
 sarveshspatil111@github
 -------------------------
@@ -40,6 +50,6 @@ Languages: Bash, Python, JavaScript
 Frameworks: Django, React
 Learning: Node.js, Express, Frappe
 Tools: Git, Tmux, Docker
-```
+``` -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=tokyonight&hide_border=true) -->
