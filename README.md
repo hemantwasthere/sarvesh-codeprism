@@ -29,13 +29,14 @@
 ```
 
 ```csharp
-      /\         sarveshspatil111@github
+      /\         sarvesh@arch
      /  \        -------------------------
-    /\   \       OS: Arch Linux x86_64
-   /      \      Shell: zsh 5.8
-  /   ,,   \     WM: dwm
- /   |  |  -\    Terminal: st
-/_-''    ''-_\   Learning: React, TypeScript
+    /\   \       OS:        Arch Linux
+   /  __  \      KERNEL:    Linux 5.15.11-arch2-1
+  /  (  )  \     PACKAGES:  474
+ / __|  |__\\    SHELL:     zsh
+/.`        `.\   WM:        dwm
+
 ```
 
 <!-- <img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
