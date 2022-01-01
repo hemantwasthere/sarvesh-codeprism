@@ -24,19 +24,18 @@
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
   </a>
 
-```fish
-><> fetchinfo
+```csharp
+sarvesh@void:~$ neofetch
 ```
 
 ```csharp
-      /\         sarvesh@arch
-     /  \        -------------------------
-    /\   \       OS:        Arch Linux
-   /  __  \      KERNEL:    Linux 5.15.11-arch2-1
-  /  (  )  \     PACKAGES:  474
- / __|  |__\\    SHELL:     zsh
-/.`        `.\   WM:        dwm
-
+    _______     sarvesh@void
+ _ \______ -    ------------------
+| \  ___  \ |   OS: Void Linux x86_64
+| | /   \ | |   Packages: 662 (xbps-query)
+| | \___/ | |   Shell: bash 5.1.8
+| \______ \_|   WM: dwm
+ -_______\      Terminal: st
 ```
 
 <!-- <img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
