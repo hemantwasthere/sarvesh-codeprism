@@ -20,7 +20,7 @@
 <a href='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' />
   </a>
-<a href='https://drive.google.com/file/d/16lL0lhp3PSRvhXM0icCOI_Ie60x7EgGC/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
+<a href='https://drive.google.com/drive/folders/1gOKUeLIjSiV0V--Js7G2vZEIWCN2hYWa?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
   </a>
 
@@ -36,6 +36,7 @@ sarvesh@void:~$ neofetch
 | | \___/ | |   Shell: bash 5.1.8
 | \______ \_|   WM: dwm
  -_______\      Terminal: st
+                Memory: 282MiB / 7726MiB
 ```
 
 <!-- <img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
