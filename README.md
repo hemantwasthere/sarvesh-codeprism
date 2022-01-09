@@ -58,4 +58,9 @@ Tools: Git, Tmux, Docker
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [YouTube Channel Logo](https://www.youtube.com/watch?v=nEQ7fBZzvvY)
+- [What is Open Source Software ? || Explained](https://www.youtube.com/watch?v=1hWD-cp3aI4)
+- [Creating, Manipulating Files and Directories || Linux Command Line TutoriaL](https://www.youtube.com/watch?v=d7VGO0rn7wY)
+- [Learning First Linux Command || Linux Command Line Tutorial](https://www.youtube.com/watch?v=YX9B1lWpe8s)
+- [Linux Command Line Tutorial Series |  Introduction](https://www.youtube.com/watch?v=Y4_WPPXpvMg)
 <!-- YOUTUBE:END -->
