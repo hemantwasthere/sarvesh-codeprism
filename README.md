@@ -27,7 +27,7 @@
 ```csharp
 sarvesh@void:~$ neofetch
 ```
-
+<!--
 ```csharp
     _______     sarvesh@void
  _ \______ -    ------------------
@@ -37,6 +37,16 @@ sarvesh@void:~$ neofetch
 | \______ \_|   WM: dwm
  -_______\      Terminal: st
                 Memory: 282MiB / 7726MiB
+```
+-->
+```csharp
+      /\         sarvesh@arch
+     /  \        ----------------
+    /\   \       OS: Arch Linux
+   /  __  \      Packages: 561
+  /  (  )  \     Terminal: st
+ / __|  |__\\    Shell: zsh
+/.`        `.\   WM: awesome
 ```
 
 <!-- <img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
