@@ -20,7 +20,7 @@
 <a href='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil111@gmail.com&color=gray&style=plastic-square&logo=gmail' />
   </a>
-<a href='https://drive.google.com/drive/folders/1gOKUeLIjSiV0V--Js7G2vZEIWCN2hYWa?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
+<a href='https://drive.google.com/file/d/1Ap8Djg2fjS2muHH6dNbQZBkvnwOA0Jq8/view?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
   </a>
 
