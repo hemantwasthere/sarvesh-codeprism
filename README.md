@@ -43,10 +43,10 @@ sarvesh@arch:~$ fetchinfo
       /\         sarvesh@arch
      /  \        ----------------
     /\   \       OS: Arch Linux
-   /  __  \      Packages: 561
+   /  __  \      Packages: 745
   /  (  )  \     Terminal: st
  / __|  |__\\    Shell: zsh
-/.`        `.\   WM: awesome
+/.`        `.\   WM: dwm
 ```
 
 <!-- <img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
