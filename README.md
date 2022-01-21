@@ -43,7 +43,7 @@ sarvesh@arch:~$ fetchinfo
       /\         sarvesh@arch
      /  \        ----------------
     /\   \       OS: Arch Linux
-   /  __  \      Packages: 745
+   /  __  \      Packages: 781
   /  (  )  \     Terminal: st
  / __|  |__\\    Shell: zsh
 /.`        `.\   WM: dwm
