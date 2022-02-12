@@ -1,7 +1,7 @@
 <!-- # [<img src="https://lh3.googleusercontent.com/a-/AOh14Gilqms4ucFuPLLOrS93UYMNXtYGtDXxeDPqrHDNFA=s96-c-rg-br100" width="40" height="40">](https://github.com/sarveshspatil111) Hi, I’m Sarvesh Patil -->
 
 <h1>Hello, I'm Sarvesh Patil</h1>
-
+<!-- 
 <a href='https://www.linkedin.com/in/sarveshspatil/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil&color=gray&style=plastic-square&logo=linkedin' />
   </a>
@@ -22,7 +22,7 @@
   </a>
 <a href='https://drive.google.com/drive/folders/1gOKUeLIjSiV0V--Js7G2vZEIWCN2hYWa?usp=sharing' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
-  </a>
+  </a> -->
 
 ```csharp
 sarvesh@arch:~$ fetchinfo
