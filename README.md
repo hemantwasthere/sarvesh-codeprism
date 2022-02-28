@@ -68,3 +68,5 @@ Tools: Git, Tmux, Docker
 ``` -->
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=sarvesh-codeprism&theme=tokyonight&hide_border=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvesh-codeprism&repo=i3wm-nord&theme=tokyonight&hide_border=true)](https://github.com/sarvesh-codeprism/i3wm-nord)
